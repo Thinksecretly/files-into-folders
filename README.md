@@ -23,5 +23,5 @@ The `organize_files_into_folders.py` script helps you tidy up a directory by pla
 
 ### Installing and Executing
 
-replace '/mnt/data' wit the path to your directory
-run python orianize_files_into_folders.py
+- replace '/mnt/data' with the path to your directory
+- run python orianize_files_into_folders.py
